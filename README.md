@@ -49,15 +49,14 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ![image](https://github.com/sharonsanjana/Forward-kinematics-using-robot-analyzer/assets/127593602/e5f83add-b24c-4c9d-8443-7a6943752f45)
 
-6D0F
-https://user-images.githubusercontent.com/95198708/238820898-8f6d7ca0-8c4a-47c3-b46c-76971c72328f.png
+6DOF
+![output](k1.png)
+c
+4DOF
+![output](k2.png)
 
 4DOF
-
-https://user-images.githubusercontent.com/95198708/238821065-83de22bf-48ee-4b39-91d5-5caa5bb28208.png
-4DOF
-https://user-images.githubusercontent.com/95198708/238821096-844d7578-bba1-4795-99e0-c144bb263c2a.png
-
+![output](k3.png)
 ### RESULTS :  
 
 Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
